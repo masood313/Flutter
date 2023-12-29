@@ -1,3 +1,3 @@
 void main(){
-    print("assigment 1")
+    print("assigment 1");
 }
